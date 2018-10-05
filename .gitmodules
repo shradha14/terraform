@@ -1,0 +1,42 @@
+[submodule "providers/terraform-provider-azurerm"]
+	path = providers/terraform-provider-azurerm
+	url = git@github.com:terraform-providers/terraform-provider-azurerm.git
+[submodule "modules/terraform-azurerm-compute"]
+	path = modules/terraform-azurerm-compute
+	url = git@github.com:Azure/terraform-azurerm-compute.git
+[submodule "modules/terraform-azurerm-network"]
+	path = modules/terraform-azurerm-network
+	url = git@github.com:Azure/terraform-azurerm-network.git
+[submodule "modules/terraform-azurerm-loadbalancer"]
+	path = modules/terraform-azurerm-loadbalancer
+	url = git@github.com:Azure/terraform-azurerm-loadbalancer.git
+[submodule "modules/terraform-azurerm-database"]
+	path = modules/terraform-azurerm-database
+	url = git@github.com:Azure/terraform-azurerm-database.git
+[submodule "modules/terraform-azurerm-network-security-group"]
+	path = modules/terraform-azurerm-network-security-group
+	url = git@github.com:Azure/terraform-azurerm-network-security-group.git
+[submodule "modules/terraform-azurerm-computegroup"]
+	path = modules/terraform-azurerm-computegroup
+	url = git@github.com:Azure/terraform-azurerm-computegroup.git
+[submodule "modules/terraform-azurerm-vmss-cloudinit"]
+	path = modules/terraform-azurerm-vmss-cloudinit
+	url = git@github.com:Azure/terraform-azurerm-vmss-cloudinit.git
+[submodule "modules/terraform-azurerm-vm"]
+	path = modules/terraform-azurerm-vm
+	url = git@github.com:Azure/terraform-azurerm-vm.git
+[submodule "modules/terraform-azurerm-vnet"]
+	path = modules/terraform-azurerm-vnet
+	url = git@github.com:Azure/terraform-azurerm-vnet.git
+[submodule "modules/terraform-azurerm-manageddisk"]
+	path = modules/terraform-azurerm-manageddisk
+	url = git@github.com:Azure/terraform-azurerm-manageddisk.git
+[submodule "modules/terraform-azurerm-search-service"]
+	path = modules/terraform-azurerm-search-service
+	url = git@github.com:Azure/terraform-azurerm-search-service.git
+[submodule "modules/terraform-azurerm-encryptedmanageddisk"]
+	path = modules/terraform-azurerm-encryptedmanageddisk
+	url = git@github.com:Azure/terraform-azurerm-encryptedmanageddisk.git
+[submodule "modules/terraform-azurerm-module-test-jenkins"]
+	path = modules/terraform-azurerm-module-test-jenkins
+	url = git@github.com:Azure/terraform-azurerm-module-test-jenkins.git
